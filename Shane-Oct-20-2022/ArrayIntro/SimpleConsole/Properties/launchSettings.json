@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimpleConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "5 12.5 Bob \"somebody else\""
+    }
+  }
+}
